@@ -14,7 +14,6 @@
 [✯] Crack Default  
 [✯] Crack Manual  
 [✯] Crack 4 Method
-[✯] Crack Default 2 Password  
 
 ## ⇨  Install Script Termux
 
