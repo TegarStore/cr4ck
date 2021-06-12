@@ -32,3 +32,7 @@ $ git clone https://github.com/BiiDev/cr4ck
 $ cd cr4ck
 
 $ python2 orbxd.py
+
+### ScreenShot
+ <img src="https://github.com/Biidev/kontol/20210611_162353.jpg" width="640" title="Menu" alt="Menu">
+</p>
