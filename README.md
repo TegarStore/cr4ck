@@ -19,7 +19,7 @@
 
 $ pkg update && pkg upgrade
 
-$ pkg install git python2
+$ pkg install python2
 
 $ pip2 install bs4
 
