@@ -34,5 +34,5 @@ $ cd cr4ck
 $ python2 orbxd.py
 
 ### ScreenShot
- <img src="https://github.com/Biidev/kontol/20210611_162353.jpg" width="640" title="ScreenShot" alt="Menu">
+ <img src="https://github.com/BiiDev/cr4ck/blob/main/kontol/Screenshot_2021-06-11-20-37-27-118_com.termux.jpg" width="640" title="ScreenShot" alt="Menu">
 </p>
