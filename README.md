@@ -4,11 +4,6 @@
 [✯] Login Token  
 [✯] Token Tahan CheckPoint
 
-## ⇨  Dump
-
-[✯] Dump From Public  
-[✯] Fast Crack
-
 ## ⇨  Crack
 
 [✯] Crack Default  
