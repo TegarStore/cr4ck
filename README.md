@@ -13,7 +13,7 @@
 
 [✯] Crack Default  
 [✯] Crack Manual  
-[✯] Crack 4 Method
+[✯] Crack 5 Method
 
 ## ⇨  Install Script Termux
 
