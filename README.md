@@ -22,6 +22,10 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
+$ pkg install git
+
+$ rm -rf cr4ck
+
 $ git clone https://github.com/BiiDev/cr4ck
 
 $ cd cr4ck
