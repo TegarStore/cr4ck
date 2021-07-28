@@ -65,8 +65,7 @@ logo = """\033[1;37m
 \____/   \033[1;91m  /_/   \033[1;37m  \___/  /_/|_|\n"""
 
 host="https://mbasic.facebook.com"
-ua="Mozilla/5.0 (Linux; Android 8.1.0; CPH1909) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/240.0.0.9.115;]"#User-A
-gent REDMI 6A
+ua="Mozilla/5.0 (Linux; Android 8.1.0; CPH1909) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/240.0.0.9.115;]"#User-Agent REDMI 6A
 ips=None
 try:
 	b=requests.get("https://api.ipify.org").text.strip()
